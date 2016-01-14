@@ -9,6 +9,7 @@ using namespace std;
 
 int main()
 {
+	cout << "This is how you talk to the console in C++" << endl;
 	return 0;
 }
 
